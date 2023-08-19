@@ -1,1 +1,1 @@
-console.log('Git2');
+console.log('Git2 v2');
